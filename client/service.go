@@ -2,29 +2,23 @@ package client
 
 import (
 	"github.com/sirupsen/logrus"
-	"io/ioutil"
-	"rogchap.com/v8go"
+	jae "learnGo/pkg/js_engine"
 )
 
 
 
 func InitializeService() {
 
-	filePath := "app/js_service/service.bundle.js"
+	//filePath := "app/js_service/service.bundle.js"
+	filePath := "app/js_service/test.js"
 
-	bytes,err := ioutil.ReadFile(filePath)
-
+	_,err := jae.Run(filePath,"app/js_service/main.js")
 	if err != nil {
-		 logrus.Fatal("read js service file failed")
+		 logrus.Fatal("execute failed",err.Error())
 	}
-	ctx, _ := v8go.NewContext(nil)
 
-	v ,err := ctx.RunScript(string(bytes),"main.js")
+	logrus.Infoln("execute success")
 
-	if err != nil{
-		 logrus.Fatal("goja run script error:",err)
-	}
-	logrus.Infoln("value is:",v)
 
 }
 

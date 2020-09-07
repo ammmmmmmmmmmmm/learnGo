@@ -1,0 +1,8 @@
+
+server:
+  port: 8080
+
+logger:
+  path: log
+  level: debug
+  size: 1024

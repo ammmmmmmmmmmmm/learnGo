@@ -1,0 +1,134 @@
+2020-09-04 16:44:45  [info]  1111
+2020-09-04 16:44:45  [debug]  1111112222
+2020-09-04 17:21:58  [info]  start server error
+2020-09-04 17:23:44  [info]  start server error
+2020-09-04 17:29:18  [info]  start server error
+2020-09-04 18:46:02  [info]  start mongo db
+2020-09-04 18:51:42  [info]  start mongo db
+2020-09-04 18:51:42  [info]  connected mongo
+2020-09-04 19:02:12  [info]  start mongo db
+2020-09-04 19:02:22  [error]  dial mongo failed
+2020-09-04 19:02:22  [info]  connected mongo 
+2020-09-04 19:03:10  [info]  start mongo db
+2020-09-04 19:03:10  [info]  connected mongo 
+2020-09-04 19:05:48  [info]  start mongo db
+2020-09-04 19:05:48  [info]  connected mongo 
+2020-09-04 22:28:25  [info]  start mongo db
+2020-09-04 22:28:25  [info]  connected mongo 
+2020-09-04 22:30:59  [info]  start mongo db
+2020-09-04 22:30:59  [info]  connected mongo 
+2020-09-04 22:31:25  [info]  start mongo db
+2020-09-04 22:31:25  [info]  connected mongo 
+2020-09-04 22:33:12  [info]  start mongo db
+2020-09-04 22:33:12  [info]  connected mongo 
+2020-09-04 22:39:26  [info]  start mongo db
+2020-09-04 22:39:26  [info]  connected mongo 
+2020-09-04 23:01:07  [info]  start mongo db
+2020-09-04 23:01:07  [info]  connected mongo 
+2020-09-04 23:02:39  [info]  start mongo db
+2020-09-04 23:02:39  [info]  connected mongo 
+2020-09-04 23:03:15  [info]  start mongo db
+2020-09-04 23:03:15  [info]  connected mongo 
+2020-09-04 23:12:13  [info]  start mongo db
+2020-09-04 23:12:13  [info]  connected mongo 
+2020-09-04 23:17:16  [info]  start mongo db
+2020-09-04 23:17:16  [info]  connected mongo 
+2020-09-04 23:20:00  [info]  start mongo db
+2020-09-04 23:20:00  [info]  connected mongo 
+2020-09-04 23:22:06  [info]  start mongo db
+2020-09-04 23:22:06  [info]  connected mongo 
+2020-09-04 23:27:02  [info]  start mongo db
+2020-09-04 23:27:02  [info]  connected mongo 
+2020-09-04 23:30:07  [info]  start mongo db
+2020-09-04 23:30:07  [info]  connected mongo 
+2020-09-04 23:31:02  [info]  start mongo db
+2020-09-04 23:31:02  [info]  connected mongo 
+2020-09-04 23:31:32  [info]  start mongo db
+2020-09-04 23:31:32  [info]  connected mongo 
+2020-09-04 23:32:23  [info]  start mongo db
+2020-09-04 23:32:23  [info]  connected mongo 
+2020-09-04 23:41:37  [info]  start mongo db
+2020-09-04 23:41:37  [info]  connected mongo 
+2020-09-04 23:52:57  [info]  start mongo db
+2020-09-04 23:52:57  [info]  connected mongo 
+2020-09-06 21:49:09  [info]  start mongo db
+2020-09-06 21:49:24  [error]  dial mongo failed
+2020-09-06 21:49:24  [info]  connected mongo 
+2020-09-06 21:54:29  [info]  start mongo db
+2020-09-06 21:54:49  [info]  start mongo db
+2020-09-06 21:55:05  [error]  dial mongo failed
+2020-09-06 21:55:05  [info]  connected mongo 
+2020-09-06 21:57:23  [info]  start mongo db
+2020-09-06 21:57:48  [info]  start mongo db
+2020-09-06 21:58:04  [error]  dial mongo failed
+2020-09-06 21:58:04  [info]  connected mongo 
+2020-09-06 21:58:32  [info]  start mongo db
+2020-09-06 21:58:47  [error]  dial mongo failed
+2020-09-06 21:58:47  [info]  connected mongo 
+2020-09-06 21:58:47  [info]  start server error
+2020-09-06 22:01:54  [info]  start mongo db
+2020-09-06 22:02:09  [info]  start mongo db
+2020-09-06 22:02:25  [error]  dial mongo failed
+2020-09-06 22:02:25  [info]  connected mongo 
+2020-09-06 22:02:25  [info]  start server error
+2020-09-06 22:03:59  [info]  start mongo db
+2020-09-06 22:04:14  [error]  dial mongo failed
+2020-09-06 22:04:14  [info]  connected mongo 
+2020-09-06 22:09:03  [info]  start mongo db
+2020-09-06 22:09:04  [info]  connected mongo 
+2020-09-06 22:09:55  [info]  start mongo db
+2020-09-06 22:09:55  [info]  connected mongo 
+2020-09-06 22:12:14  [info]  start mongo db
+2020-09-06 22:12:14  [info]  connected mongo 
+2020-09-06 22:13:09  [info]  start mongo db
+2020-09-06 22:13:09  [info]  connected mongo 
+2020-09-06 22:13:29  [info]  start mongo db
+2020-09-06 22:13:29  [info]  connected mongo 
+2020-09-06 22:13:42  [info]  start mongo db
+2020-09-06 22:13:42  [info]  connected mongo 
+2020-09-06 22:46:13  [info]  start mongo db
+2020-09-06 22:46:13  [info]  connected mongo 
+2020-09-06 22:46:35  [info]  start mongo db
+2020-09-06 22:46:35  [info]  connected mongo 
+2020-09-06 22:47:01  [info]  start mongo db
+2020-09-06 22:47:01  [info]  connected mongo 
+2020-09-06 22:49:59  [info]  start mongo db
+2020-09-06 22:49:59  [info]  connected mongo 
+2020-09-06 22:50:21  [info]  start mongo db
+2020-09-06 22:50:21  [info]  connected mongo 
+2020-09-06 22:51:09  [info]  start mongo db
+2020-09-06 22:51:09  [info]  connected mongo 
+2020-09-06 22:54:54  [info]  start mongo db
+2020-09-06 22:54:54  [info]  connected mongo 
+2020-09-06 22:55:23  [info]  start mongo db
+2020-09-06 22:55:23  [info]  connected mongo 
+2020-09-06 22:55:42  [info]  start mongo db
+2020-09-06 22:55:42  [info]  connected mongo 
+2020-09-06 22:57:33  [info]  start mongo db
+2020-09-06 22:57:33  [info]  connected mongo 
+2020-09-06 22:58:53  [info]  start mongo db
+2020-09-06 22:58:53  [info]  connected mongo 
+2020-09-06 22:59:12  [info]  start mongo db
+2020-09-06 22:59:12  [info]  connected mongo 
+2020-09-06 22:59:28  [info]  start mongo db
+2020-09-06 22:59:28  [info]  connected mongo 
+2020-09-06 23:01:57  [info]  start mongo db
+2020-09-06 23:01:57  [info]  connected mongo 
+2020-09-06 23:01:58  [info]  start electron app
+2020-09-06 23:04:39  [info]  start mongo db
+2020-09-06 23:04:39  [info]  connected mongo 
+2020-09-06 23:04:39  [info]  start electron app
+2020-09-06 23:07:42  [info]  start mongo db
+2020-09-06 23:07:42  [info]  connected mongo 
+2020-09-06 23:07:42  [info]  start electron app
+2020-09-06 23:19:57  [info]  start mongo db
+2020-09-06 23:19:57  [info]  connected mongo 
+2020-09-06 23:19:57  [info]  start server error
+2020-09-06 23:19:57  [info]  app stoped
+2020-09-06 23:20:26  [info]  start mongo db
+2020-09-06 23:20:26  [info]  connected mongo 
+2020-09-06 23:20:26  [info]  start server error
+2020-09-06 23:20:26  [info]  app stoped
+2020-09-06 23:20:53  [info]  start mongo db
+2020-09-06 23:20:53  [info]  connected mongo 
+2020-09-06 23:20:53  [info]  start electron app

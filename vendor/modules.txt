@@ -1,12 +1,21 @@
 # github.com/asticode/go-astikit v0.8.0
+## explicit
 github.com/asticode/go-astikit
 # github.com/asticode/go-astilectron v0.16.0
+## explicit
 github.com/asticode/go-astilectron
+# github.com/dlclark/regexp2 v1.2.1
+## explicit
+# github.com/dop251/goja v0.0.0-20200831102558-9af81ddcf0e1
+## explicit
+# github.com/dop251/goja_nodejs v0.0.0-20200811150831-9bc458b4bbeb
+## explicit
 # github.com/fsnotify/fsnotify v1.4.7
 github.com/fsnotify/fsnotify
 # github.com/gin-contrib/sse v0.1.0
 github.com/gin-contrib/sse
 # github.com/gin-gonic/gin v1.6.3
+## explicit
 github.com/gin-gonic/gin
 github.com/gin-gonic/gin/binding
 github.com/gin-gonic/gin/internal/bytesconv
@@ -18,8 +27,12 @@ github.com/go-playground/locales/currency
 # github.com/go-playground/universal-translator v0.17.0
 github.com/go-playground/universal-translator
 # github.com/go-playground/validator/v10 v10.3.0
+## explicit
 github.com/go-playground/validator/v10
+# github.com/go-sourcemap/sourcemap v2.1.3+incompatible
+## explicit
 # github.com/golang/protobuf v1.4.2
+## explicit
 github.com/golang/protobuf/proto
 # github.com/hashicorp/hcl v1.0.0
 github.com/hashicorp/hcl
@@ -35,6 +48,7 @@ github.com/hashicorp/hcl/json/token
 # github.com/inconshreveable/mousetrap v1.0.0
 github.com/inconshreveable/mousetrap
 # github.com/json-iterator/go v1.1.10
+## explicit
 github.com/json-iterator/go
 # github.com/konsorten/go-windows-terminal-sequences v1.0.3
 github.com/konsorten/go-windows-terminal-sequences
@@ -51,18 +65,10 @@ github.com/modern-go/concurrent
 # github.com/modern-go/reflect2 v1.0.1
 github.com/modern-go/reflect2
 # github.com/pelletier/go-toml v1.4.0
+## explicit
 github.com/pelletier/go-toml
-# github.com/robertkrimen/natto v0.0.0-20140427053146-5296a7476556
-github.com/robertkrimen/natto
-# github.com/robertkrimen/otto v0.0.0-20191219234010-c382bd3c16ff
-github.com/robertkrimen/otto
-github.com/robertkrimen/otto/ast
-github.com/robertkrimen/otto/dbg
-github.com/robertkrimen/otto/file
-github.com/robertkrimen/otto/parser
-github.com/robertkrimen/otto/registry
-github.com/robertkrimen/otto/token
 # github.com/sirupsen/logrus v1.6.0
+## explicit
 github.com/sirupsen/logrus
 # github.com/spf13/afero v1.1.2
 github.com/spf13/afero
@@ -70,24 +76,29 @@ github.com/spf13/afero/mem
 # github.com/spf13/cast v1.3.0
 github.com/spf13/cast
 # github.com/spf13/cobra v1.0.0
+## explicit
 github.com/spf13/cobra
 # github.com/spf13/jwalterweatherman v1.0.0
 github.com/spf13/jwalterweatherman
 # github.com/spf13/pflag v1.0.3
 github.com/spf13/pflag
 # github.com/spf13/viper v1.7.1
+## explicit
 github.com/spf13/viper
 # github.com/subosito/gotenv v1.2.0
 github.com/subosito/gotenv
 # github.com/ugorji/go/codec v1.1.7
 github.com/ugorji/go/codec
 # golang.org/x/sys v0.0.0-20200831180312-196b9ba8737a
+## explicit
 golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 # golang.org/x/text v0.3.3
+## explicit
 golang.org/x/text/transform
 golang.org/x/text/unicode/norm
 # google.golang.org/protobuf v1.25.0
+## explicit
 google.golang.org/protobuf/encoding/prototext
 google.golang.org/protobuf/encoding/protowire
 google.golang.org/protobuf/internal/descfmt
@@ -117,13 +128,15 @@ google.golang.org/protobuf/runtime/protoimpl
 # gopkg.in/ini.v1 v1.51.0
 gopkg.in/ini.v1
 # gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
+## explicit
 gopkg.in/mgo.v2
 gopkg.in/mgo.v2/bson
 gopkg.in/mgo.v2/internal/json
 gopkg.in/mgo.v2/internal/sasl
 gopkg.in/mgo.v2/internal/scram
-# gopkg.in/sourcemap.v1 v1.0.5
-gopkg.in/sourcemap.v1
-gopkg.in/sourcemap.v1/base64vlq
 # gopkg.in/yaml.v2 v2.3.0
+## explicit
 gopkg.in/yaml.v2
+# rogchap.com/v8go v0.2.0
+## explicit
+rogchap.com/v8go

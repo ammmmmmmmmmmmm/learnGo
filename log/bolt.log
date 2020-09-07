@@ -132,3 +132,19 @@
 2020-09-06 23:20:53  [info]  start mongo db
 2020-09-06 23:20:53  [info]  connected mongo 
 2020-09-06 23:20:53  [info]  start electron app
+2020-09-07 13:09:27  [info]  start mongo db
+2020-09-07 13:09:38  [error]  dial mongo failed
+2020-09-07 13:09:38  [info]  connected mongo 
+2020-09-07 16:08:44  [info]  call test method result is: 11111111
+2020-09-07 16:21:35  [info]  call test method result is: 11111111
+2020-09-07 16:26:47  [error]  call test method failed
+2020-09-07 16:26:47  [info]  call test method result is: undefined
+2020-09-07 16:36:12  [error]  call test method failed
+2020-09-07 16:36:12  [info]  call test method result is: undefined
+2020-09-07 16:37:26  [error]  call test method failed
+2020-09-07 16:37:26  [info]  call test method result is: undefined
+2020-09-07 16:40:32  [error]  call test method failed
+2020-09-07 16:40:32  [info]  call test method result is: undefined
+2020-09-07 16:42:49  [error]  run js service failed:(anonymous): Line 1:71625 Invalid regular expression: re2: Invalid \1 <backreference> (and 915 more errors)
+2020-09-07 16:42:49  [error]  call test method failed
+2020-09-07 16:42:49  [info]  call test method result is: undefined

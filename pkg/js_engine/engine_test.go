@@ -7,7 +7,7 @@ import (
 
 func TestGetFunction(t *testing.T) {
 	filePath := "./main.js"
-	_,err := GetFunction(filePath,"startJSService")
+	_,err := Run(filePath,"startJSService")
 	require.NoError(t,err)
 
 }

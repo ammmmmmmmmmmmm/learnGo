@@ -36,11 +36,13 @@ func StartView(a *astilectron.Astilectron) {
 	logrus.Infoln("start electron app")
 
 	fullScreen := false
+
 	var w, _ = a.NewWindow("app/index.html", &astilectron.WindowOptions{
 		Center: astikit.BoolPtr(true),
 		Height: astikit.IntPtr(600),
 		Width:  astikit.IntPtr(600),
 		Frame:  &fullScreen,
 	})
+	
 	w.Create()
 }

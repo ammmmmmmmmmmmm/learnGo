@@ -29,6 +29,7 @@ github.com/dop251/goja/unistring
 # github.com/dop251/goja_nodejs v0.0.0-20200811150831-9bc458b4bbeb
 ## explicit
 github.com/dop251/goja_nodejs/console
+github.com/dop251/goja_nodejs/eventloop
 github.com/dop251/goja_nodejs/require
 github.com/dop251/goja_nodejs/util
 # github.com/fsnotify/fsnotify v1.4.7

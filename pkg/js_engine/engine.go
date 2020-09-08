@@ -9,6 +9,7 @@ import (
 	"github.com/dop251/goja"
 	"github.com/dop251/goja_nodejs/console"
 	"github.com/dop251/goja_nodejs/require"
+	"github.com/dop251/goja_nodejs/eventloop"
 	"github.com/sirupsen/logrus"
 )
 
@@ -26,17 +27,30 @@ type global struct {
 }
 
 func Run(filePath, funcName string)(goja.Value,error)  {
-	runtime := goja.New()
-	runtime.Set("window",runtime.GlobalObject())
-	runtime.Set("global",runtime.GlobalObject())
-	runtime.Set("globalThis", runtime.GlobalObject())
-	runtime.SetFieldNameMapper(goja.TagFieldNameMapper("json", true))
-	registry.Enable(runtime)
-	console.Enable(runtime)
-	console.RequireWithPrinter(Console{})
-	v, err := runtime.RunString(fmt.Sprintf(`require("%s");`, filePath))
 
-	return v,err
+
+	loop := eventloop.NewEventLoop()
+	prg, err := goja.Compile("main.js", fmt.Sprintf(`require("%s");`, filePath), false)
+	if err != nil {
+		logrus.Error("哈哈哈哈哈哈")
+	}
+	logrus.Infoln("start loop")
+	loop.Run(func(runtime *goja.Runtime) {
+		runtime.Set("window",runtime.GlobalObject())
+		runtime.Set("global",runtime.GlobalObject())
+		runtime.Set("globalThis", runtime.GlobalObject())
+		runtime.SetFieldNameMapper(goja.TagFieldNameMapper("json", true))
+		registry.Enable(runtime)
+		console.Enable(runtime)
+		console.RequireWithPrinter(Console{})
+		_,e := runtime.RunProgram(prg)
+		if e != nil {
+			fmt.Println(e)
+		}
+	})
+
+
+	return nil,err
 }
 
 func GetFunction(filePath, funcName string) (*JsFunction, error) {

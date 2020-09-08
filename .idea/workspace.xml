@@ -20,45 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8fa2816-c6d1-438e-a166-d43a8d386988" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/learnGo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js_service/CouponsConfig-2dca118f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js_service/formatFunc-457c7656.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js_service/index-0d3ed818.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js_service/main-c092fbbe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js_service/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js_service/mbus-015f1fcd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js_service/posConfig-01f26cba.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js_service/service-1fe2dbf4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js_service/store-306b5b85.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/js_service/sysdata-5b03b800.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/js_engine/engine.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/js_engine/engine_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/CouponsConfig-a5a54ea1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/formatFunc-50ba1af4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/index-99f85684.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/main-b469a114.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/mbus-a32fcde3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/posConfig-c7a7f3bf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/service-564ff112.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/store-aed36688.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/sysdata-e88d01b3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/js_engine/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js_service/service.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js_service/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js_service/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/client/service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/bolt.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/bolt.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/client/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/js_engine/engine.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/js_engine/engine.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/js_engine/engine_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/js_engine/engine_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/modules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/modules.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/.gitmodules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/.ycm_extra_conf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/cgo.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/context.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/errors.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/gopher.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/isolate.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/v8go.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/v8go.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/v8go.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rogchap.com/v8go/value.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,8 +82,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\雪剑\go\src\learnGo\app\js_service" />
       <recent name="C:\Users\雪剑\go\src\learnGo\pkg\js_engine" />
+      <recent name="C:\Users\雪剑\go\src\learnGo\app\js_service" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -280,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build learnGo">
+  <component name="RunManager" selected="Go Test.TestGetFunction in learnGo/pkg/js_engine (3)">
     <configuration name="go build learnGo" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="learnGo" />
       <working_directory value="$PROJECT_DIR$" />
@@ -290,6 +267,17 @@
       <filePath value="$PROJECT_DIR$" />
       <package value="learnGo" />
       <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetFunction in learnGo/pkg/js_engine (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="learnGo" />
+      <working_directory value="$PROJECT_DIR$/pkg/js_engine" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="learnGo/pkg/js_engine" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGetFunction\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestGetFunction in learnGo/pkg/js_engine (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -304,17 +292,6 @@
       <method v="2" />
     </configuration>
     <configuration name="TestGetFunction in learnGo/pkg/js_engine (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="learnGo" />
-      <working_directory value="$PROJECT_DIR$/pkg/js_engine" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="learnGo/pkg/js_engine" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestGetFunction\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestGetFunction in learnGo/pkg/js_engine (4)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="learnGo" />
       <working_directory value="$PROJECT_DIR$/pkg/js_engine" />
       <framework value="gotest" />
@@ -353,19 +330,19 @@
     <list>
       <item itemvalue="Go Build.go build learnGo" />
       <item itemvalue="HTTP Request.post-requests#1" />
-      <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (2)" />
-      <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (3)" />
-      <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (4)" />
       <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (5)" />
       <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine" />
+      <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (1)" />
+      <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (2)" />
+      <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine" />
-        <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (5)" />
-        <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (4)" />
         <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (3)" />
         <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (2)" />
+        <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (1)" />
+        <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine" />
+        <item itemvalue="Go Test.TestGetFunction in learnGo/pkg/js_engine (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -401,38 +378,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599494265319" />
-    <state width="1342" height="310" key="GridCell.Tab.0.bottom" timestamp="1599505027378">
+    <state width="1342" height="310" key="GridCell.Tab.0.bottom" timestamp="1599580883216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599505027378" />
-    <state width="1342" height="310" key="GridCell.Tab.0.center" timestamp="1599505027378">
+    <state width="1342" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599580883216" />
+    <state width="1342" height="310" key="GridCell.Tab.0.center" timestamp="1599580883215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="310" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599505027378" />
-    <state width="1342" height="310" key="GridCell.Tab.0.left" timestamp="1599505027378">
+    <state width="1342" height="310" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599580883215" />
+    <state width="1342" height="310" key="GridCell.Tab.0.left" timestamp="1599580883215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="310" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599505027378" />
-    <state width="1342" height="310" key="GridCell.Tab.0.right" timestamp="1599505027378">
+    <state width="1342" height="310" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599580883215" />
+    <state width="1342" height="310" key="GridCell.Tab.0.right" timestamp="1599580883216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="310" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599505027378" />
-    <state width="1342" height="310" key="GridCell.Tab.1.bottom" timestamp="1599505027253">
+    <state width="1342" height="310" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599580883216" />
+    <state width="1342" height="310" key="GridCell.Tab.1.bottom" timestamp="1599580884045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="310" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599505027253" />
-    <state width="1342" height="310" key="GridCell.Tab.1.center" timestamp="1599505027253">
+    <state width="1342" height="310" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599580884045" />
+    <state width="1342" height="310" key="GridCell.Tab.1.center" timestamp="1599580884044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="310" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599505027253" />
-    <state width="1342" height="310" key="GridCell.Tab.1.left" timestamp="1599505027253">
+    <state width="1342" height="310" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599580884044" />
+    <state width="1342" height="310" key="GridCell.Tab.1.left" timestamp="1599580884044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="310" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599505027253" />
-    <state width="1342" height="310" key="GridCell.Tab.1.right" timestamp="1599505027253">
+    <state width="1342" height="310" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599580884044" />
+    <state width="1342" height="310" key="GridCell.Tab.1.right" timestamp="1599580884045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="310" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599505027253" />
+    <state width="1342" height="310" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599580884045" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1599146040457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -449,5 +426,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599210945826" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/vendor/github.com/dop251/goja_nodejs/require/module.go</url>
+          <line>156</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
